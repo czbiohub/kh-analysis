@@ -1,0 +1,5 @@
+
+genome mm10
+
+load https://czb-maca.s3-us-west-2.amazonaws.com/Plate_seq/3_month/170914_A00111_0058_AH3FYKDMXX__170914_A00111_0057_BH3FY7DMXX/results_gencode_ercc/A1-B000610-3_56_F-1-1.gencode.vM19.ERCC.Aligned.out.sorted.bam
+load https://czb-maca.s3-us-west-2.amazonaws.com/Plate_seq/3_month/170914_A00111_0058_AH3FYKDMXX__170914_A00111_0057_BH3FY7DMXX/results_gencode_ercc/A1-B002764-3_38_F-1-1.gencode.vM19.ERCC.Aligned.out.sorted.bam
